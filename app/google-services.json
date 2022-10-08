@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "244185321895",
+    "firebase_url": "https://rekukletaxi-default-rtdb.firebaseio.com",
+    "project_id": "rekukletaxi",
+    "storage_bucket": "rekukletaxi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244185321895:android:b0b026dbb74bd5ae0fe682",
+        "android_client_info": {
+          "package_name": "com.example.rekukletaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244185321895-02saf723rfp49mrsa7t998k3d0ifgo13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Sdc_cw3FVK1s6390gMjsBKg156nfxK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244185321895-02saf723rfp49mrsa7t998k3d0ifgo13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

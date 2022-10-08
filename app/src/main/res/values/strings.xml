@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Такси-агрегатор</string>
+    <string name="title_activity_maps">Карта</string>
+</resources>
